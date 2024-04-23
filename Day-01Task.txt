@@ -6,12 +6,12 @@ HTTP1.1:
 ->HTTP/1 was known to have poor response time. With websites becoming more resource-intensive, the protocol was losing its efficiency. It progressively became essential to minimize latency and boost page load speeds.
 ->HTTP/1.1 sends messages as plain text
 
-
 HTTP2 : 
 ->It has only single Tcp connection even it has more number of elemnets.
 ->HTTP/2 is the second version of HTTP with most of the shortcomings of its predecessor addressed in it. It has come with advancements in efficiency, speed, and security. 
 ->HTTP/2 aims at simplifying, speeding up, and empowering the applications across the internet. To achieve the same, the protocol emphasizes on page load time, resource optimization, and round-trip time (RTT) reduction.
 ->HTTP/2 encodes them into binary data and arranges them carefully.
+
 
 2.Write a blog about objects and its internal representation in Javascript
 Answer:
